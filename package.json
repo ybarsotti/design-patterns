@@ -1,0 +1,32 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {
+    "tslint": "^6.1.3"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ybarsotti/design-patterns.git"
+  },
+  "keywords": [
+    "design-patterns",
+    "code",
+    "patterns",
+    "typescript"
+  ],
+  "author": "Yuri Barsotti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ybarsotti/design-patterns/issues"
+  },
+  "homepage": "https://github.com/ybarsotti/design-patterns#readme"
+}
